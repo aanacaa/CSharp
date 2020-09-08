@@ -1,0 +1,6 @@
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\09-ByteBank\bin\Debug\09-ByteBank.exe.config
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\09-ByteBank\bin\Debug\09-ByteBank.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\09-ByteBank\bin\Debug\09-ByteBank.pdb
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\09-ByteBank\obj\Debug\09-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\09-ByteBank\obj\Debug\09-ByteBank.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\09-ByteBank\obj\Debug\09-ByteBank.pdb

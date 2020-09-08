@@ -1,0 +1,7 @@
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\obj\Debug\10-ExemploDivisaoPorZero.csprojAssemblyReference.cache
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\obj\Debug\10-ExemploDivisaoPorZero.csproj.CoreCompileInputs.cache
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\bin\Debug\10-ExemploDivisaoPorZero.exe.config
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\bin\Debug\10-ExemploDivisaoPorZero.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\bin\Debug\10-ExemploDivisaoPorZero.pdb
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\obj\Debug\10-ExemploDivisaoPorZero.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\10-ExemploDivisaoPorZero\obj\Debug\10-ExemploDivisaoPorZero.pdb

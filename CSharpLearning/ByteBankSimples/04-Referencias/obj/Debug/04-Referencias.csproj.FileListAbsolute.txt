@@ -1,0 +1,6 @@
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\04-Referencias\bin\Debug\04-Referencias.exe.config
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\04-Referencias\bin\Debug\04-Referencias.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\04-Referencias\bin\Debug\04-Referencias.pdb
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\04-Referencias\obj\Debug\04-Referencias.csproj.CoreCompileInputs.cache
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\04-Referencias\obj\Debug\04-Referencias.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\04-Referencias\obj\Debug\04-Referencias.pdb

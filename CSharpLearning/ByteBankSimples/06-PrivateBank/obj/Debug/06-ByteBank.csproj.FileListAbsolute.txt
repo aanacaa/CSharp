@@ -1,0 +1,7 @@
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\bin\Debug\06-PrivateBank.exe.config
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\bin\Debug\06-PrivateBank.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\bin\Debug\06-PrivateBank.pdb
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\obj\Debug\06-ByteBank.csprojAssemblyReference.cache
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\obj\Debug\06-PrivateBank.exe
+C:\Users\eanaane\Documents\CSharp\CSharpLearning\ByteBank\06-PrivateBank\obj\Debug\06-PrivateBank.pdb
