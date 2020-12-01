@@ -5470,11 +5470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eanaane\\Desktop\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+      "projectUniqueName": "C:\\Users\\eanaane\\Documents\\GitHub\\CSharp\\3-Asp.NET_Core\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
       "projectName": "Alura.ListaLeitura.App",
-      "projectPath": "C:\\Users\\eanaane\\Desktop\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+      "projectPath": "C:\\Users\\eanaane\\Documents\\GitHub\\CSharp\\3-Asp.NET_Core\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
       "packagesPath": "C:\\Users\\eanaane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eanaane\\Desktop\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\obj\\",
+      "outputPath": "C:\\Users\\eanaane\\Documents\\GitHub\\CSharp\\3-Asp.NET_Core\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
