@@ -7,9 +7,11 @@
 </head>
 <body>
     <ul>
-        <li>A Arte da Procrastinação - John Perry</li>
-        <li>It, A Coisa - Stephen King</li>
-        <li>Carrie, A Estranha - Stephen King</li>
+        @foreach (var livro in ViewBag.Livros)
+        {
+        <li>@livro.Titulo - @livro.Autor</li>
+        }
+
     </ul>
 </body>
 </html>
