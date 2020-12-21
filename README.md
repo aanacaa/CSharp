@@ -1,3 +1,3 @@
 # C# Learning
 
-* [Alura Courses - .NET Core Training](https://cursos.alura.com.br/formacao-dotnet) 
+* [Alura Courses - .NET Core](https://cursos.alura.com.br/formacao-dotnet-v236) 
